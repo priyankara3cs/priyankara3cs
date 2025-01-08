@@ -38,33 +38,33 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.linkedin.com/in/chamidupriyankara/">
+            <a href="https://www.linkedin.com/in/chamidupriyankara/"  style="text-decoration: none;">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="https://www.facebook.com/priyankara.facebook">
+            <a href="https://www.facebook.com/priyankara.facebook"  style="text-decoration: none;">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/facebook.svg" />
             </a>
   &nbsp;&nbsp;
-            <a href="#">
+            <a href="#"  style="text-decoration: none;">
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" />
             </a>
   &nbsp;&nbsp;
-            <a href="https://twitter.com/Priyankara_SL">
+            <a href="https://twitter.com/Priyankara_SL"  style="text-decoration: none;">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="https://medium.com/@PriyankaraAthapaththu">
+            <a href="https://medium.com/@PriyankaraAthapaththu"  style="text-decoration: none;">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
             </a> <!--
   &nbsp;&nbsp;
-            <a href="#">
+            <a href="#"  style="text-decoration: none;">
   <img  alt="Hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
             </a> -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="#">
+ <!-- &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#"  style="text-decoration: none;">
   <img  height="35px" src="https://github.com/priyankara3cs/priyankara3cs/assets/88779731/2ae5826d-b132-4420-85a3-e75c94ce22cb" />
-            </a>
+            </a> -->
 </p>
 
 <hr>
