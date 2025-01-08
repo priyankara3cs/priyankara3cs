@@ -35,7 +35,7 @@
 - ⚡ Fun fact: ...
 <img src="https://media2.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=ecf05e478cbjsxnx0toc64ns0td09gos8r7nlo81zd16botl&rid=giphy.gif&ct=s"  width="30" height="30" >
 -->
-
+<!--
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a target="blank" href="https://www.linkedin.com/in/chamidupriyankara/"  style="text-decoration: none;">
@@ -56,16 +56,16 @@
   &nbsp;&nbsp;
             <a target="blank" href="https://medium.com/@PriyankaraAthapaththu"  style="text-decoration: none;">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
-            </a> <!--
+            </a> 
   &nbsp;&nbsp;
             <a target="blank" href="#"  style="text-decoration: none;">
   <img  alt="Hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
-            </a> -->
- <!-- &nbsp;&nbsp;&nbsp;&nbsp;
+            </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
             <a target="blank" href="#"  style="text-decoration: none;">
   <img  height="35px" src="https://github.com/priyankara3cs/priyankara3cs/assets/88779731/2ae5826d-b132-4420-85a3-e75c94ce22cb" />
-            </a> -->
-</p>
+            </a> 
+</p> -->
 
 <hr>
  
